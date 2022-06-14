@@ -1,0 +1,64 @@
+.Header{
+    /* border: 1px solid black; */
+    height: 34rem;
+    width: 100%;
+    background-color: #38376E;
+}
+.Header_container{
+    height: 40rem;
+    width: 75%;
+    /* border: 1px solid black; */
+    margin: 0 auto;
+    display: flex;
+}
+.card1{
+    height: 22rem;
+    width: 45%;
+    /* border: 1px solid black; */
+    margin: 8rem 0 0 0;
+    
+}
+.text{
+    /* border: 1px solid black; */
+    height: 3rem;
+    width: 3rem;
+    color: rgba(255, 228, 196, 0.877);;
+}
+.name{
+    /* border: 1px solid black; */
+    height: 3rem;
+    width: 13rem;
+    color: rgba(255, 228, 196, 0.877);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.par{
+    /* border: 1px solid black; */
+    height: 2rem;
+    width: 32rem;
+    color: rgba(255, 228, 196, 0.877);
+}
+.per{
+    /* border: 1px solid black; */
+    height: 2rem;
+    width: 25rem;
+    color: rgba(255, 228, 196, 0.877);
+}
+.butt > button{
+    height: 2rem;
+    width: 5rem;
+    margin: 2rem 0 0 -27rem ;
+    border-radius: 20px;
+    background-color: #DD6377;
+    border: none;
+  
+}
+.card2{
+    /* border: 1px solid black; */
+    height: 38rem;
+    width: 45%;
+    margin: 3rem 0 0 4rem;
+}
+img{
+    height: 34rem;
+    width: 30rem;
+}

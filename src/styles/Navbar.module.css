@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.Navbar {
+  /* border: 1px solid black; */
+  height: 0;
+  background-color: rgb(17, 17, 134);
+}
+.logo {
+  /* border: 1px solid black; */
+  height: 2rem;
+  width: 4rem;
+  color: #A04E81;
+  margin: 0 0 0 3rem;
+  font-weight: 400;
+  font-family: "Times New Roman", Times, serif;
+}
+.nav > ul {
+  /* border: 1px solid black; */
+  display: flex;
+  justify-content: space-between;
+  list-style: none;
+  margin: -1.8rem 0 0 60rem;
+  color: rgba(255, 228, 196, 0.877);
+  width: 20rem;
+}

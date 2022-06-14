@@ -1,0 +1,57 @@
+.Prof {
+  /* border: 1px solid black; */
+  width: 100%;
+  height: 48rem;
+  background-color: #38376E;
+}
+.Prof_container {
+  /* border: 1px solid black; */
+  width: 80%;
+  height: 35rem;
+  margin: 0 auto;
+  background-color: #38376E;
+  display: flex;
+}
+.card1 {
+  height: 35rem;
+  width: 50%;
+  /* border: 1px solid rgb(114, 82, 82); */
+  margin: 5rem 0 0 0;
+  text-align: left;
+}
+.card {
+  border: 4px solid #DD6377;
+  height: 29rem;
+  width: 55%;
+  margin: 0 auto;
+  background-color: rgb(25, 29, 31);
+}
+.card > img {
+  height: 26rem;
+  width: 25rem;
+  margin: 0 0 0 -2rem;
+}
+.text{
+    /* border: 1px solid black; */
+    height: 3rem;
+    width: 18rem;
+    color: rgba(255, 228, 196, 0.877);
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.cv > button{
+    height: 2rem;
+    width: 6rem;
+    border-radius: 20px;
+    margin: 3rem 0 0 0;
+    border: none;
+    background-color: #F59CB0;
+}
+
+.row > td{
+    margin: 0 0 15px 0;
+}
+.para{
+  color: white;
+}
